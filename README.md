@@ -1,2 +1,3 @@
 # ML-projects-
-google collab notebooks for all the projects done
+Cars24 Price-Prediction - Linear Regression
+Telecom customer churn prediction - Logistic Regression
