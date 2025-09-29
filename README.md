@@ -15,4 +15,6 @@ Stocks Clustering - Heirarchical/Agglomerative Clustering Algorithms
 
 Premium Customer Segmentation - DBSCAN       
 
-Cars 24 Anomaly Detection - Elliptic-Envelop / Local-Outlier-Factor / Isolation-Forest
+Cars 24 Anomaly Detection - Elliptic-Envelop / Local-Outlier-Factor / Isolation-Forest     
+
+Dimensionality Reduction - PCA / T-SNE / UMAP
