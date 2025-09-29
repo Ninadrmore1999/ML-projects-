@@ -7,4 +7,6 @@ Blinkit delivery partners - K Nearest Neighbors
 
 Jio Employee Attrition - Decision Tree                           
 
-Spam / Ham classification - Support vector Machine
+Spam / Ham classification - Support vector Machine             
+
+Amazon Customer Segmentation - Clustering Algorithms
