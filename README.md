@@ -13,4 +13,6 @@ Amazon Customer Segmentation -  KMeans Clustering Algorithms
 
 Stocks Clustering - Heirarchical/Agglomerative Clustering Algorithms              
 
-Premium Customer Segmentation - DBSCAN 
+Premium Customer Segmentation - DBSCAN       
+
+Cars 24 Anomaly Detection - Elliptic-Envelop / Local-Outlier-Factor / Isolation-Forest
