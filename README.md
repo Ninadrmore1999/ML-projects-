@@ -9,4 +9,6 @@ Jio Employee Attrition - Decision Tree
 
 Spam / Ham classification - Support vector Machine             
 
-Amazon Customer Segmentation - Clustering Algorithms
+Amazon Customer Segmentation - Clustering Algorithms                
+
+Stocks Clustering - Clustering Algorithms
