@@ -17,6 +17,8 @@ Premium Customer Segmentation - DBSCAN
 
 Cars 24 Anomaly Detection - Elliptic-Envelop / Local-Outlier-Factor / Isolation-Forest     
 
-Dimensionality Reduction - PCA / T-SNE / UMAP    
+Dimensionality Reduction - PCA / T-SNE / UMAP        
+
+MobiPlus Sales Forecasting - SARIMAX 
 
 Xotica  Restraurant footfall forecasting - SARIMAX / FBPROPHET
