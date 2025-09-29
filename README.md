@@ -5,4 +5,6 @@ Telecom customer churn prediction - Logistic Regression
 
 Blinkit delivery partners - K Nearest Neighbors            
 
-Jio Employee Attrition - Decision Tree   
+Jio Employee Attrition - Decision Tree                           
+
+Spam / Ham classification - Support vector Machine
